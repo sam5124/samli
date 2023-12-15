@@ -1,4 +1,5 @@
 baseURL = 'https://sam5124.github.io/samli/'
+
 languageCode = 'en-us'
 canonifyurls = true
 title = '没想好组名组的第一个网站'

@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cartoon made on 没想好组名组的第一个网站</title>
-    <link>https://example.org/about/</link>
+    <link>https://sam5124.github.io/samli/about/</link>
     <description>Recent content in cartoon made on 没想好组名组的第一个网站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sam5124.github.io/samli/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,12 +1,19 @@
 ---
 title: "The Simpsons"
+author: 'samli'
+
+date: '2023-12-12'
+
+draft: false
 
 description: "没想好组名组"
-# 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
+
 theme_version: '2.8.2'
+
 cascade:
   featured_image: '/images/cover.jpeg'
 ---  
+
 Welcome to The Simpsons website！
 
 <!DOCTYPE html>

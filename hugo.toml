@@ -1,12 +1,12 @@
 baseURL = 'https://sam5124.github.io/samli/'
-
 languageCode = 'en-us'
-canonifyurls = true
-title = '没想好组名组的第一个网站'
-theme = 'ananke'
 publishDir="docs"
+theme = 'ananke'
+title = '没想好组名组的第一个网站'
+canonifyurls = true
 [markup]
 defaultMarkdownHandler = "goldmark"
 [markup.goldmark]
 [markup.goldmark.renderer]
 unsafe = true
+

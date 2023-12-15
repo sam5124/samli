@@ -7,7 +7,7 @@ menu:
     weight: 1
 ---
 {{< figure src="/images/film2.jpg" title="参与制作的国际动画工作室" >}}
-
+<p style="width: 950px;margin-left: -200px;" >
 _AKOM
 独立制作了系列的前两季。
 自系列开播后便一直参与动画制作。
@@ -24,3 +24,4 @@ Toonzone Entertainment
 《辛普森一家》前三季在美国的制片工作由Kalsky Csupo完成。1992年，节目的制作公司Gracie Films将美国国内的制片工作转交给了Film Roman，后者在此后（至2013年）便一直都负责该节目的制作。
 从第十四季开始，节目的制作流程从传统的赛璐珞动画转变成了数码描线和上色。正式使用数码色彩上色的第一集动画是1995年的“Radioactive Man”。动画师在第十二季的“Tennis the Menace”中曾使用过数字色彩，但Gracie Films拒绝将该技术正式应用于该节目的制作，直到继续制播两季之后才予以接受。不过，已经制作完成了的“Tennis the Menace”仍得以在电视网上播放。
 
+</p>

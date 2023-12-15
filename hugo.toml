@@ -1,0 +1,11 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+canonifyurls = true
+title = '没想好组名组的第一个网站'
+theme = 'ananke'
+publishDir="docs"
+[markup]
+defaultMarkdownHandler = "goldmark"
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true

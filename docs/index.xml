@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Simpsons on 没想好组名组的第一个网站</title>
+    <link>https://example.org/</link>
+    <description>Recent content in The Simpsons on 没想好组名组的第一个网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://example.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/contact/</guid>
+      <description>联系我们，让您获得更好地网页体验！
+Your NameEmail AddressAn email address is required.Message</description>
+    </item>
+    <item>
+      <title>Reference</title>
+      <link>https://example.org/posts/reference/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/reference/</guid>
+      <description>^ “Lisa Gets an &amp;ldquo;A&amp;rdquo;” 《辛普森一家》． 1998年11月22日．
+^ “The Canine Mutiny” 《辛普森一家》． 1997年4月13日．
+^ “Girly Edition” 《辛普森一家》． 1998年4月19日．
+^ “Saddlesore Galactica” 《辛普森一家》． 2000年2月6日．
+^ “Lisa&amp;rsquo;s Pony” 《辛普森一家》． 1991年11月7日．
+^ “Bart Gets an Elephant” 《辛普森一家》． 1994年3月31日．
+^ “Bart the Mother” 《辛普森一家》． 1998年9月27日．
+^ “Stop, Or My Dog Will Shoot!” 《辛普森一家》． 2007年5月13日．
+^ 《辛普森一家大电影》． 2007年7月26日．
+^ “Oh Brother, Where Art Thou?” 《辛普森一家》． 1991年2月21日．
+^ “Brother Can You Spare Two Dimes?”《辛普森一家》．1992年8月27日.
+^ 12.0 12.</description>
+    </item>
+  </channel>
+</rss>

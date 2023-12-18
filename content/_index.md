@@ -14,7 +14,8 @@ cascade:
   featured_image: '/images/cover.jpeg'
 ---  
 
-Welcome to The Simpsons website！
+## Welcome to The Simpsons！
+## 您好，辛普森一家了解一下！
 
 <!DOCTYPE html>
 <html>
@@ -87,8 +88,6 @@ Welcome to The Simpsons website！
 
 
 ## [辛普森一家](https://baike.baidu.com/item/%E8%BE%9B%E6%99%AE%E6%A3%AE%E4%B8%80%E5%AE%B6/35758)
-
-
 <body>
 <p style="width: 950px;margin-left: -200px;">《辛普森一家》(The Simpsons)是由美国福克斯广播公司出品，马特·格勒宁创作的一部动画情景喜剧。该剧通过展现霍默、玛姬、巴特、丽莎和麦琪一家五口的生活，讽刺性地勾勒出了居住在美国心脏地带人们的生活方式。
 该片从许多角度对美国的文化与社会、人的条件和电视本身进行了幽默的嘲讽，是一部家庭喜剧幽默片。</p>
@@ -100,8 +99,10 @@ Welcome to The Simpsons website！
 
 
 ## 角色介绍
+![](http://5b0988e595225.cdn.sohucs.com/images/20180810/aa5a15849cb3471d820a42e9e5b5983b.gif)
+
 ## Homer
-<img src="/images/homer.jpg" style="margin-left: -650px;"><p style="margin-top: -480px;margin-left: 200px;width: 670px;">辛普森一家中的父亲，一人养着全家。
+<img src="/images/homer.jpg" style="margin-left: -650px;"><p style="margin-top: -480px;margin-left: 200px;width: 670px;">**辛普森一家中的父亲，一人养着全家**<br><br>
 春田镇核电厂里7-G部门的安全检查员，他是通过政府经济改革下进入核电厂工作的。
 他是个体重230多磅（104多千克），头脑简单，脾气暴躁的典型人物。
 食量大，特爱吃甜甜圈，以及一切高热量食物，生活中离不开DUFF啤酒和电视。而他的工作时间就是在睡觉和吃甜甜圈。
@@ -116,10 +117,8 @@ Welcome to The Simpsons website！
 <br><br>
 
 ## Marge
-<img src="/images/marge.jpg" style="margin-left:px;">
-<p style="width: 950px;margin-left: -200px;" >
-一个充满包容的母亲和妻子，家庭主妇。
-喜欢把头发染成蓝色，固定成竖立发型，喜欢将钱藏在头发里，生气或者烦恼时会发出类似小狗的腔音，深爱丈夫Homer和家庭，尤其能够容忍丈夫的一切缺点。也能够同情原谅周围的人。
+<img src="/images/marge.jpg" style="margin-left:px;"><p style="width: 950px;margin-left: -200px;" >**一个充满包容的母亲和妻子，家庭主妇**<br><br>
+喜欢把头发染蓝色，固定成竖立发型，喜欢将钱藏在头发里，生气或者烦恼时会发出类似小狗的腔音，深爱丈夫Homer和家庭，尤其能够容忍丈夫的一切缺点。也能够同情原谅周围的人。
 Marge是粘合剂，是她的辛勤努力，让辛普森一家日复一日的呆在一起。通过对各项琐碎生活费用（如一个电动门，孩子们的服装费等）制定计划，Marge小心翼翼的规划Homer的微薄薪水，然而千禧年的各项巨大费用让Marge目不暇接：Homer的啤酒，炸面包圈，还要准备印度一日游——Kwik-E超市购物。
 Marge可不是只会做饭的家庭妇女，她也是丈夫强有力的支撑。</p>
 
@@ -127,7 +126,7 @@ Marge可不是只会做饭的家庭妇女，她也是丈夫强有力的支撑。
 
 ## Bart
 
-<img src="/images/bart.gif" style="margin-left: 360px;"><p style="width: 550px;margin-top: -480px;margin-left:-240px;width=500px" >一个淘气可爱的男孩子，10岁。
+<img src="/images/bart.gif" style="margin-left: 360px;"><p style="width: 550px;margin-top: -480px;margin-left:-240px;width=500px" >**一个淘气可爱的男孩子，10岁**<br><br>
 擅长滑板，喷漆涂鸦，常常打骚扰电话用文字游戏捉弄酒吧的Moe。
 喜欢小丑Krusty的表演，以及动画片《Itchy和Scratchy》（傻猫与坏鼠）（恶搞《猫和老鼠》）。
 在第一季中因被学校派送至法国交换生而学会了法语，那集他受了不少的苦。Bart每周都会被留堂，被罚在黑板上写字（之前几乎每集的开头都有一句）。Bart不爱学习，但是关键时刻却很少掉链子。
@@ -136,7 +135,7 @@ Bart喜欢成为人们的焦点，喜欢欺负Lisa，但是却常被Nelson等人
 Bart没有太大的追求，更没有远大的抱负，他的生活态度就是快快乐乐的过每一天，烦恼对于他来说总是转瞬即逝，不过Bart的生活总是多姿多彩，曾经救过自己的偶像小丑Krusty，多次破坏杂耍Bob的阴谋，在剧场版里还和爸爸拯救过春田镇。</p>
 <br><br>
 ## Lisa
-<img src="/images/lisa.png" style="margin-left: -650px;"><p style="width: 750px;margin-top: -480px;margin-left:140px;">博学多才的女孩子，8岁。信仰佛教，素食主义者，环保主义者，女权主义者，喜欢吹萨克斯，喜欢小丑Krusty的表演，以及动画片《Itchy和Scratchy》（恶搞《猫和老鼠》），多次幻想自己成为美国总统，门萨Mensa俱乐部的会员，学习成绩特好。
+<img src="/images/lisa.png" style="margin-left: -650px;"><p style="width: 750px;margin-top: -480px;margin-left:140px;">**博学多才的女孩子，8岁**<br><br>信仰佛教，素食主义者，环保主义者，女权主义者，喜欢吹萨克斯，喜欢小丑Krusty的表演，以及动画片《Itchy和Scratchy》（恶搞《猫和老鼠》），多次幻想自己成为美国总统，门萨Mensa俱乐部的会员，学习成绩特好。
 由于她的理智公正并具有真正的道德感常常能够帮助周围的人解决矛盾，并使她发现一些谎言和阴谋，但一般没有人相信她。同样，虽然她很理智，但当有人超越她时，她会明显的表现出嫉妒和恐惧的心里。（有一集Maggie表现出超越她的天赋时Lisa故意教她错误的词意来误导她，虽然之后又被自己吓到了为了避免伤害Maggie而主动离家出走。）
 天生丽质，在第四季第4集中披荆斩棘荣获儿童选美冠军。比较有趣的是，这和前面Homer词条中有人说Lisa丑的事情发生在同一集，其实只是别人为了打击她的自信，最后荣获冠军后对容貌的自信也回归了。
 也在第二十四季第15集中因为美貌和甜美可爱的娃娃音，被新来的代课老师误认为是交际花而被老师欺负。
@@ -146,8 +145,9 @@ Bart没有太大的追求，更没有远大的抱负，他的生活态度就是�
 <br><br>
 
 ## 播出信息
-[《辛普森一家》](https://baike.baidu.com/reference/35758/533aYdO6cr3_z3kATPyIzvz1N37MNIipu-KGUeZzzqIP0XOpX5nyFI49-Jk88fooAAPO_YtrbcYGmea5FR0AsqsNJK1sAep2yDU)是美国电视史上[讽刺喜剧](https://baike.baidu.com/item/%E8%AE%BD%E5%88%BA%E5%96%9C%E5%89%A7/479620?fromModule=lemma_inlink)及动画节目的常青树，于1989年12月17日首播。
-《辛普森一家》现已播出至第32季（更新中）。2012年2月19日，《辛普森一家》迎来了历史性的第500集（第23季第14集）。《辛普森一家》电影版（别名辛普森大电影/阿森一族大电影）于2007年上映。
+[《辛普森一家》](https://baike.baidu.com/reference/35758/533aYdO6cr3_z3kATPyIzvz1N37MNIipu-KGUeZzzqIP0XOpX5nyFI49-Jk88fooAAPO_YtrbcYGmea5FR0AsqsNJK1sAep2yDU)是美国电视史上[讽刺喜剧](https://baike.baidu.com/item/%E8%AE%BD%E5%88%BA%E5%96%9C%E5%89%A7/479620?fromModule=lemma_inlink)及动画节目的常青树，
+于1989年12月17日首播。<br><br>
+《辛普森一家》现已播出至第32季（更新中）。<br><br>2012年2月19日，《辛普森一家》迎来了历史性的第500集（第23季第14集）。<br><br>《辛普森一家》电影版（别名辛普森大电影/阿森一族大电影）于2007年上映。
 
 ![film](/images/film.jpg)
 <p style="margin-left: -170px;width: 970px;">在2019年9月30日《辛普森一家》宣布续订至32季，届时集数将达到713集。不过，

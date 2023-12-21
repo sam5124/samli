@@ -1,21 +1,49 @@
 ---
-title: " Award "
-description: "获奖记录"
+title: " Town "
+description: "榆中县城"
 theme_version: '2.8.2'
-featured_image: '/images/award.gif'
+featured_image: '/images/OIP-C (1).jpg'
 menu:
   main:
     weight: 1
 ---
-![xpsyj](http://5b0988e595225.cdn.sohucs.com/images/20180810/f3c451ea8b254434ae377f27061d7a95.gif)
-<p style="width: 950px;margin-left: -200px;">从作为一部电视剧制播以来，《辛普森一家》赢取了大量的奖项；其中包括25次艾美奖、26次安妮奖和1次皮博迪奖。1999年12月31日期的《时代》杂志将其评为20世纪最优秀的电视剧作；<br><br>
-2000年1月14日，《辛普森一家》的星星被刻在了好莱坞星光大道上。在《时代》在1998年的一期杂志上公布的20世纪艺术与娱乐业的最伟大成就当中，将《辛普森一家》列为20世纪最优秀的电视剧作品。在同一期杂志里，《时代》还将巴特·辛普森列入了年度《时代一百人》当中，将他评为20世纪最具影响力的一百位人物之一。巴特是该名单中的一位虚构人物。<br><br>
-2000年1月14日，《辛普森一家》登上了好莱坞的星光大道。同样在2000年，《娱乐周刊》杂志的电视评论家肯·塔克将《辛普森一家》称作是1990年代最伟大的电视节目。英国第四台的观众们曾在两次投票评选中将《辛普森一家》评为第一名：一次是2001年的100部最伟大的儿童电视节目评选，另一次是2005年的100部最伟大的卡通节目评选；<br><br>
-<img src="/images/hollwude.jpeg.crdownload">
-此外，在2001年的100位最伟大电视角色的评选当中，霍默·辛普森亦被评为第一名。2007年，《娱乐周刊》在“50个最伟大的电视偶像”中将霍默·辛普森列为第九位。2002年，在《电视指南》史上最伟大的50部电视节目评选中，《辛普森一家》位列第八，在2007年，在《时代》的“史上最优秀的100部电视节目”列表中亦包括有《辛普森一家》。<br><br>
-为了给制片人詹姆斯·L·布鲁克斯制作一出动画短剧，马特·格勒宁构思出了辛普森一家人的形象。格勒宁用自己家族成员的名字逐一地给他们命名，而自己的名字则用“巴特”替代。<br><br>
-1987年4月19日，短剧成为了《特蕾西·厄尔曼秀》的一部分。在播映三季后，《辛普森一家》得以转正进入半小时的黄金时段，并成为了福克斯在早期达成的成功之一。空间设定于虚构的春田镇（Springfield）的《辛普森一家》对于流行文化的影响无可比拟。
-2009年，美国邮局推出其题材的邮票。<br><br>
-2017年6月，该片获得“预告片界奥斯卡”的金预告片奖最佳原创海报奖。<br><br>
-2020年2月，该片获得美国编剧工会最佳动画片剧本奖。<br><br>
-入选《吉尼斯世界纪录大全2021》名人堂。<br><br></p>
+
+
+# 县城好风光
+
+<style>
+.container {
+  display: flex;
+  overflow-x: auto;
+}
+
+.image-container {
+  flex-shrink: 0;
+  width: 600px;
+  height: 400px;
+  margin-right: 200px;
+  border-width: 500px;
+}
+</style>
+
+## 横屏
+
+<div class="container">
+  <div class="image-container">
+    <img src="/images/town.jpg" alt="图片1描述">
+  </div>
+  <div class="image-container">
+    <img src="/images/town1.jpg" alt="图片2描述">
+  </div>
+     <div class="image-container">
+    <img src="/images/t6.JPG" alt="图片3描述">
+  </div>
+  <div class="image-container">
+    <img src="/images/t4.JPG" alt="图片3描述">
+  </div>
+</div>
+
+
+## 竖屏
+![](/images/t3.JPG)
+![](/images/t5.JPG)
